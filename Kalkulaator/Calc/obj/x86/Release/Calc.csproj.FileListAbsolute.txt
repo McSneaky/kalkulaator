@@ -1,0 +1,18 @@
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\bin\Release\Calc.exe
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\bin\Release\Calc.pdb
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\Calc.Form1.resources
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\Calc.Properties.Resources.resources
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\Calc.exe
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Release\Calc.pdb
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\bin\Release\Calc.exe
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\bin\Release\Calc.pdb
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\Calc.Form1.resources
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\Calc.Properties.Resources.resources
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\Calc.exe
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Release\Calc.pdb

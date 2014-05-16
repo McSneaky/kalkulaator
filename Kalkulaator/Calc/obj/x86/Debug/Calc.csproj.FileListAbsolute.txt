@@ -1,0 +1,27 @@
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\bin\Debug\Calc.exe
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\bin\Debug\Calc.pdb
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\Calc.Form1.resources
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\Calc.exe
+C:\Users\Kata\AppData\Local\Temporary Projects\Calc\obj\x86\Debug\Calc.pdb
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.exe
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.pdb
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.Form1.resources
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Kata\documents\visual studio 2010\Projects\Calc\Calc\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Pask\Siia\Calc\Calc\bin\Debug\Calc.exe
+D:\Pask\Siia\Calc\Calc\bin\Debug\Calc.pdb
+D:\Pask\Siia\Calc\Calc\obj\x86\Debug\Calc.Form1.resources
+D:\Pask\Siia\Calc\Calc\obj\x86\Debug\Calc.Properties.Resources.resources
+D:\Pask\Siia\Calc\Calc\obj\x86\Debug\Calc.csproj.GenerateResource.Cache
+D:\Pask\Siia\Calc\Calc\obj\x86\Debug\Calc.exe
+D:\Pask\Siia\Calc\Calc\obj\x86\Debug\Calc.pdb
+D:\Pask\Siia\Calc\Calc\bin\Debug\Calc.exe.CodeAnalysisLog.xml
+D:\Pask\Siia\Calc\Calc\bin\Debug\Calc.exe.lastcodeanalysissucceeded
